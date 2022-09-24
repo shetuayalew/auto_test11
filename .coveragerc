@@ -1,8 +1,8 @@
 [run]
-source = project_name
+source = auto_test11
 
 [report]
 omit =
     */python?.?/*
     */site-packages/nose/*
-    project_name/__main__.py
+    auto_test11/__main__.py
